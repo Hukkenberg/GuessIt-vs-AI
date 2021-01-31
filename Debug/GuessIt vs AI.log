@@ -1,0 +1,3 @@
+﻿  GuessIt vs AI.cpp
+C:\Users\Hukkenberg\source\repos\GuessIt vs AI\GuessIt vs AI.cpp(43,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GuessIt vs AI.vcxproj -> C:\Users\Hukkenberg\source\repos\GuessIt vs AI\Debug\GuessIt vs AI.exe
